@@ -12,7 +12,16 @@
 <body>
 
 	<div class="menu">
-		<div>MENU</div>
+		<div>MENU1</div>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+
+	<div class="menu">
+		<div>MENU2</div>
 		<ul>
 			<li></li>
 			<li></li>
