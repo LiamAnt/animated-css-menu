@@ -12,7 +12,7 @@
 <body>
 
 	<div class="menu">
-		<div>MENU</div>
+		<div>MENU1</div>
 		<ul>
 			<li></li>
 			<li></li>
