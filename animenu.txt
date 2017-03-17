@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja-jp">
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport">
+	<title>TEST LIB</title>
+	<link href="css/style.css" rel="stylesheet">
+</head>
+
+
+
+<body>
+
+	<div class="menu">
+		<div>MENU</div>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+
+	<div class="menu">
+		<div>MENU</div>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+
+</body>
+</html>
